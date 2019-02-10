@@ -1,3 +1,4 @@
+# this is app for blocking specific website during specific time.
 import time
 from datetime import datetime as dt
 
